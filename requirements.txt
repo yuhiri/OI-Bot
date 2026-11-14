@@ -77,7 +77,7 @@ importlib-metadata==10.2.0
     # via nonebot-plugin-alconna
 linkify-it-py==2.2.0
     # via markdown-it-py
-loguru==0.7.3
+loguru==0.8.0
     # via nonebot2
 markdown-it-py==4.3.0
     # via
