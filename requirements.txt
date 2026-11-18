@@ -94,7 +94,7 @@ multidict==7.2.1
     # via
     #   aiohttp
     #   yarl
-nepattern==1.1.0
+nepattern==1.3.0
     # via
     #   arclet-alconna
     #   arclet-alconna-tools
