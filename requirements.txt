@@ -179,7 +179,7 @@ rich==15.0.0
     #   textual
 starlette==1.10.0
     # via fastapi
-tarina==0.7.5
+tarina==0.8.0
     # via
     #   arclet-alconna
     #   nepattern
