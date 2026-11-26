@@ -171,7 +171,7 @@ python-dotenv==1.2.4
     # via
     #   nonebot2
     #   uvicorn
-pyyaml==6.0.3
+pyyaml==6.0.4
     # via uvicorn
 rich==15.0.0
     # via
